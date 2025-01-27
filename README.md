@@ -62,7 +62,7 @@
 
 <p align="left">
   📧 Email: <a href="mailto:your.email@example.com">jojopaschke@gmail.com</a> <br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/joey-paschke-22208322b</a>  
+  💼 LinkedIn: <a href="www.linkedin.com/in/joey-paschke-22208322b">LinkedIn</a>  
 </p>
 
 ---
